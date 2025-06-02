@@ -1,0 +1,29 @@
+2025-05-30 00:34:39,974 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 00:34:40,851 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 00:34:40,851 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 00:47:19,152 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 00:47:19,727 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 00:47:19,733 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:24:53,088 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:24:53,614 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:24:53,614 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:25:15,040 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:25:15,567 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:25:15,567 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:26:20,766 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:26:21,295 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:26:21,296 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:28:01,040 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:28:01,610 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:28:01,611 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:31:13,588 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:31:14,437 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:31:14,438 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-05-30 01:31:59,281 - ERROR - Error posting posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:32:00,132 - ERROR - Error posting stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: (#100) scheduled_publish_time can only be specified for page photos
+2025-05-30 01:32:00,132 - INFO - Scheduler started. Press Ctrl+C to exit.
+2025-06-02 16:49:22,302 - INFO - Photo post published immediately: chris-barbalis-vazZtmYFgFY-unsplash (1).jpg
+2025-06-02 16:50:32,778 - INFO - Photo post published immediately: chris-barbalis-vazZtmYFgFY-unsplash (1).jpg
+2025-06-02 16:50:32,779 - ERROR - Error posting D:\fb_scheduler\posts\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: [WinError 183] Cannot create a file when that file already exists: 'D:\\fb_scheduler\\posts\\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg' -> 'D:\\fb_scheduler\\posted\\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg'
+2025-06-02 16:50:36,546 - ERROR - GraphAPIError posting D:\fb_scheduler\stories\chris-barbalis-vazZtmYFgFY-unsplash (1).jpg: Service temporarily unavailable
+2025-06-02 16:50:36,547 - INFO - Scheduler started. Press Ctrl+C to exit.
